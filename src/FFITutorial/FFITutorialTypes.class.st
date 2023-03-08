@@ -1,5 +1,5 @@
 Class {
-	#name : #FFITytorialTypes,
+	#name : #FFITutorialTypes,
 	#superclass : #Object,
 	#classVars : [
 		'Age'
@@ -8,7 +8,7 @@ Class {
 }
 
 { #category : #initialization }
-FFITytorialTypes class >> initialize [
+FFITutorialTypes class >> initialize [
 
 Age:=#uint
 ]
