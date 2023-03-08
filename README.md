@@ -9,7 +9,7 @@ También instalar los ejemplos de código que se muestran en el tutorial evaluan
 ```Smalltalk
 Metacello new
     baseline: #FFITutorial;
-    repository: 'github://blueplanelabs/Pharo-uFFI-Tutorial:main';
+    repository: 'github://blueplanelabs/Pharo-uFFI-Tutorial:main/src';
     load.
 ```
 
